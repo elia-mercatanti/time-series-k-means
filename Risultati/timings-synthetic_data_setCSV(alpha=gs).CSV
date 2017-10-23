@@ -1,0 +1,9 @@
+Algorithm;Timing
+Time Series K-Means;0,018647306
+Euclid K-Means;0,002060774
+Pearson K-Means;0,00217509
+City Block K-Means;0,002352556
+Cosine K-Means;0,002056027
+DTW K-Means;0,264020586
+DTW K-Medoids;0,730440912
+Euclid K-Medoids;0,006601104
